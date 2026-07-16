@@ -21,5 +21,6 @@ int main(){
 	int count1=count(n);
 	int count2=count_log(n);
 	cout<<count1;
+	cout<<endl;
 	cout<<count2;
 }
