@@ -25,6 +25,6 @@ int main()
 		cin>>arr[i];
 	vector<int>nums=moveZeroes(n,arr);
 	for(int i=0;i<n;i++)
-		cout<<nums[i]<<" ";
+		cout<<nums[i]<<"  ";
 	return 0;
 }
